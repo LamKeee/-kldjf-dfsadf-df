@@ -11,8 +11,7 @@
 <!-- START PAGE SOURCE -->
 <div id="shell">
   <div id="header">
-    <h1 id="logo"><a href="#">MovieHunter</a></h1>
-    
+  
     <div id="navigation">
       <ul>
         <li><a class="active" href="#">HOME</a></li>
@@ -37,17 +36,19 @@
           <input type="submit" value="GO!" class="search-button" />
         </form>
       </div>
-</div> 
-</div> 
+    </div>
+  </div>
+
+</div>
 <div id="main">
     <div id="content">
       <div class="box">
         <div class="head">
-          <h2>Top Top film high rate </h2>
+          <h2>LATEST TRAILERS</h2>
           <p class="text-right"><a href="#">See all</a></p>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="#"><img src="/mysql/includes/css/images/movie1.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie1.jpg" alt=" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -56,7 +57,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 2</span></span> <a href="#"><img src="/mysql/includes/css/images/movie2.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 2</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie2.jpg" alt=" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -65,7 +66,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 3</span></span> <a href="#"><img src="/mysql/includes/css/images/movie3.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 3</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie3.jpg" alt=" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -74,7 +75,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">VALKYRIE</span></span> <a href="#"><img src="/mysql/includes/css/images/movie4.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">VALKYRIE</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie4.jpg" alt=" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -83,39 +84,185 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">GLADIATOR</span></span> <a href="#"><img src="/mysql/includes/css/images/movie5.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">GLADIATOR</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie5.jpg" alt=" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
               <div class="stars-in"> </div>
             </div>
             <span class="comments">12</span> </div>
-        </div>  
+        </div>
+        <div class="movie last">
+          <div class="movie-image"> <span class="play"><span class="name">ICE AGE</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie6.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments"></span> </div>
+        </div>
+        <div class="cl">&nbsp;</div>
+      </div>
+      <div class="box">
+        <div class="head">
+          <h2>TOP RATED</h2>
+          <p class="text-right"><a href="#">See all</a></p>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">TRANSFORMERS</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie7.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">MAGNETO</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie8.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">KUNG FU PANDA</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie9.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">EAGLE EYE</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie10.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">NARNIA</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie11.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie last">
+          <div class="movie-image"> <span class="play"><span class="name">ANGELS &amp; DEMONS</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie12.jpg" alt="/></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="cl">&nbsp;</div>
+      </div>
+      <div class="box">
+        <div class="head">
+          <h2>MOST COMMENTED</h2>
+          <p class="text-right"><a href="#">See all</a></p>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">HOUSE</span></span> <a href="#"><img src="/Mysql/includes/csscss/images/movie13.jpg" alt="/></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">VACANCY</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie14.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">MIRRORS</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie15.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">THE KINGDOM</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie16.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie">
+          <div class="movie-image"> <span class="play"><span class="name">MOTIVES</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie17.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="movie last">
+          <div class="movie-image"> <span class="play"><span class="name">THE PRESTIGE</span></span> <a href="#"><img src="/Mysql/includes/css/images/movie18.jpg" alt=" /></a> </div>
+          <div class="rating">
+            <p>RATING</p>
+            <div class="stars">
+              <div class="stars-in"> </div>
+            </div>
+            <span class="comments">12</span> </div>
+        </div>
+        <div class="cl">&nbsp;</div>
+      </div>
+    </div>
 
 <?php
-  $severname = "localhost"; 
-  $username="root"; 
-  $password=""; 
-  $dbname="movie"; 
-
-  // Create connection 
-
-  $conn = mysqli_connect($severname,$username,$password,$dbname); 
-
-  if (!$conn){ 
-    die ("connection faild". mysqli_connect_error()); 
-  }
-  echo "Connected successfully"; 
-
-  $sql ="SELECT * from film "; 
-
-  
-
-  $result = $conn->query($sql); 
+    $servername ="localhost"; 
+    $username="root"; 
+    $password=""; 
+    $dbname ="movie"; 
 
 
-  ?> 
-        
+      $conn = new mysqli($servername,$username,$password,$dbname); 
+
+
+      if ($conn->connect_error){ 
+        die("Connection failed:" .$con->connect_error); 
+      }
+
+      $sql ="SELECT tenFilm,quocGia,namSanXuat FROM film";
+      
+      
+      $result =$conn->query($sql); 
+
+      if($result ->num_rows >0){ 
+        while($row = $result->fetch_assoc()){ 
+          echo "Ten phim la:". $row["tenFilm"]. " Quoc gia " .$row["quocGia"].  "<br>"; 
+
+        }
+      }
+
+        else { 
+          echo "Không khớp"; 
+        }
+      
+    
+
+
+    
+      
+      ?> 
 
 </body> 
 </html> 
